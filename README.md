@@ -21,3 +21,13 @@
 
    * Sales Reporting
     Generate grocery and sales reports with custom templates
+
+# 🧰 Technologies Used
+
+   * Odoo 17
+
+   * Python 3
+
+   * XML (for UI and security views)
+
+   * PostgreSQL 
