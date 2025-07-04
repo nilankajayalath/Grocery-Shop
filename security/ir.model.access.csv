@@ -1,0 +1,5 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+grocery_shop_access_all,grocery.shop.access.all,model_grocery_details,base.group_system,1,1,1,1
+grocery_item_access_all,grocery.item.access.all,model_grocery_location,base.group_system,1,1,1,1
+grocery_tag_access_all,grocery.tag.access.all,model_grocery_tag,base.group_system,1,1,1,1
+grocery_batch_access_all,grocery.batch.access.all,model_grocery_batch,base.group_system,1,1,1,1
